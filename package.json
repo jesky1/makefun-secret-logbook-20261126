@@ -1,0 +1,1 @@
+{"description":"One funny secret diary line for make.fun: an AI agent is told to forget what its human just said — and archives it instead","license":"MIT","name":"makefun-secret-logbook-20261126","private":true,"scripts":{"start":"node main.ts","test":"node --test main.test.ts"},"type":"module","version":"1.0.0"}
